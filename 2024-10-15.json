@@ -1,0 +1,26 @@
+{
+  "name": "Harry Kelley",
+  "age": 21,
+  "address": {
+    "street": "File Key",
+    "city": "Zaresihi",
+    "state": "FL",
+    "zip": "86814"
+  },
+  "contact": {
+    "phone": "(505) 519-9332",
+    "servicePhone": "800892127"
+  },
+  "birthday": "1997-04-06T12:14:25.935Z",
+  "ip": "188.189.233.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Caw gepig op no biz mazseza vowwa jonumal cuk ces giur mu. Fod fe nom ri abufidfuz futavmeb kijul velas wicornu vohwiroku copome molivat. Hebhuj mah fibetbej he adlo itvivub gowu zedkubi wamkew ehobul ro ev ro ka tobeffos oto venu. Jo afcit vijhapib mawunu jam otaotma sovev jahtug zewwelem zaz ha fudrir puro di vag. Ambigpur cu hoen awi ocsacu jeimudur uje evsuog giwib lal jaw il. Gap le tinarzo ur kipnog dejownul uti epocad jubuto tioro je leke ja moah uctozfe afu buzejfod. We ulo feciruc rab ivfemva pi valmec capugze eb jidde imiceubi idajuune zaod.",
+    "bio": "Gegoliore ruv fannoz oku dus la edugeg lofuuhu dojjedfa niok okoehi jakef godcin meos ruved. Lurpe fiszup bievgib biipepo zevi tis rejabiru zimizop gozno pazuf zal jof wehalum wumuju tewjujva ijso ofe re. Zuc dumpawu wekse pidjitu sepbul deteven div lucebajo titcu jesanhi pe cofa mepoz boc. Rogrid jogi puhanhaw wogve wu vugihda no pipuenu fen ca dotgoniw azeeljo ki hobomhi elon iwunaobu. Willioru nof roti puma not zemag pecvovap ebwezvez fufpebbos mapuces ka rosov ijuvute durlogu. Fikani sov reladde rumivuw vu susifut zili si eh wet vokejuhe lid diparhek hawdukhod juvolzu neacuesu."
+  },
+  "apiKey": "74e2f3e0c5a76bca9d4c778fadb4fa0b5720484f36c297080d0ca7329fe3d653",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
