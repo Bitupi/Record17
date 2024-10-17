@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Adams",
+  "age": 42,
+  "address": {
+    "street": "Faco Parkway",
+    "city": "Locketan",
+    "state": "WI",
+    "zip": "35127"
+  },
+  "contact": {
+    "phone": "(670) 385-7731",
+    "servicePhone": "800377169"
+  },
+  "birthday": "1966-12-13T05:07:35.776Z",
+  "ip": "195.3.28.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Okuza ufan lorpujpe zi peji fabizmim makaju icva egororuw wijwusdu oru ufsanbu se fo opimipti. Wuujaler ba nipagva ep bumetiw acun verdumbot pukan biri no sokfo kimiil zamugi. La nun ro sar rubu wiuze itien idpum fimziv ujivut lo lepopbe pafioku bane. Boklatol do ijicec sidiih ad cupi pembu gijo oza dadavkok jicejpi li.",
+    "bio": "Fu ji iwhanel co mitgu emegujmu to cidjekaba uzkohuz uwi wima wunneja hiajo foufaep hon siclitel ibonaum judkil. Kegunrah amotpug lo nac weacu geli luvihcam fazom ebozeje ve cof usuzoc hubjati irinol ze pagliw cacud. Poc kejo inri zodu jegjit togugrem rom geus ow duj zejkotlik ake den teb irpepo vehuhutuh. Nejrupcuk zapdozi dogomole poebu abepet baok op uhki obbudoj pam kirikofu dubehdo zecu nat we acoufulo gal."
+  },
+  "apiKey": "6df77857c981e24db0430a5b4eea2a40179f6850cf6ed47fa06e793fc6376dc0",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
