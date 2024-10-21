@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Rhodes",
+  "age": 57,
+  "address": {
+    "street": "Ivka Highway",
+    "city": "Ikzaev",
+    "state": "RI",
+    "zip": "07598"
+  },
+  "contact": {
+    "phone": "(308) 993-5139",
+    "servicePhone": "800956799"
+  },
+  "birthday": "2003-09-07T09:16:51.810Z",
+  "ip": "205.219.215.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Misu uma nifubiba fep vasadze ujo inju hej hamfo volva abfofob mu banbet hieku fovlanzo. Cedi su pat um div tijmik afavi sebpiira abiehu seaju hobmufade iratiefe faja pe valke. Ar it latafnab wecehhat kikif nih pozhaw palvi apbev fofisotop ab owgitiz mefejbu lat.",
+    "bio": "Fijvoz ki tu juwwear ha ecvuj se rowhi peiso rihe we fevora amam forogne na dikiv wijaur. Je mu bubec la zas lemvezbut wosuje vudez ceho go de hisho motkado mihde egapiva coti. Cum vez rillud par vurehut hejbakow upe gowrew vop hogruhi didmuk osme."
+  },
+  "apiKey": "88da03d224c042c9e69a4251a85b2c14e7ce5dbdb2e19bcb7f382e479325da38",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
