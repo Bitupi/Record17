@@ -1,0 +1,26 @@
+{
+  "name": "Harriet McKinney",
+  "age": 21,
+  "address": {
+    "street": "Soluh Glen",
+    "city": "Fiokuro",
+    "state": "IA",
+    "zip": "09320"
+  },
+  "contact": {
+    "phone": "(881) 302-8874",
+    "servicePhone": "800584913"
+  },
+  "birthday": "2001-10-12T05:36:49.426Z",
+  "ip": "146.10.175.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Un wa puwgu vazlun zurdeju ta meeg tiwpar dofaz avo faca un ujuka ziguhju. Za wocosule wemago sep koisrev bumsobaz vepmo gaf zuvafme tadi pa it majog. Henojig pel wa egi po pafok epaareti ba ij bukkuv zof pe.",
+    "bio": "Uci kajwupze ewemevmaw buk pup lebote ju uda iciwid cudipmat owu bundanuc zup ozi duezol. Gujdupi daguv habsetvef welgih betenni dew fogereeru kabsohduf savdo finulka ja bopihoti ew am han jo. Taget wuopufu wut du givuv niwa kik amumir befiho pew lozenuke do av gedutho kavwuf haskoka wovu."
+  },
+  "apiKey": "623ef2b166adc8a86835ea979230b613d3598c272594bd145f32b0d467e13a45",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
