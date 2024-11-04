@@ -1,0 +1,26 @@
+{
+  "name": "Dylan Bell",
+  "age": 55,
+  "address": {
+    "street": "Zadji Park",
+    "city": "Ziciclif",
+    "state": "OR",
+    "zip": "26309"
+  },
+  "contact": {
+    "phone": "(747) 848-5724",
+    "servicePhone": "800261529"
+  },
+  "birthday": "1965-11-23T03:50:14.129Z",
+  "ip": "30.57.18.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa fi tu evpen wut ve tundopu lucri gajbi libfaes li piker re hiinaba ivoos cobat. Buwotnol tem ocapoc vislu vesavonec na rew la puevwow ve bapvem ibkokog cidancab. Zecte bubzotap cit cihnoz fi javu kumav dutew hejezeru guz av gem ka moj zugdoh. Wa koufilo jaj oh jompowuh omdam ruwit hufcitdo epewudo sa go jeufesit sarig cez vudle hec igehat.",
+    "bio": "Idi veben feijhi hacejfim pela covnu iweb uj nuumlog peigi fep mefwubuh lari mi. Pimco busugal luahab noko olumore wikadej abo jecew apakeg di emi fumneeg alve vac web pi. Lozawmat tucebev mogodet roil rasa tikfeh hubru lolrinro rogse teki begwegsah faric micheh wocdovana."
+  },
+  "apiKey": "b205f3eb2275956bf5fb0b10c37e27b1aa9b85fb9b735b4aaeb07ebbfef0c57d",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
