@@ -1,0 +1,26 @@
+{
+  "name": "Sue Hale",
+  "age": 41,
+  "address": {
+    "street": "Siwfun River",
+    "city": "Ewabagte",
+    "state": "ID",
+    "zip": "05307"
+  },
+  "contact": {
+    "phone": "(854) 956-4537",
+    "servicePhone": "800755286"
+  },
+  "birthday": "2000-05-11T03:50:55.844Z",
+  "ip": "225.66.25.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezuake bafvo ov gum nuagejov buwpeb namzug dila ri if vetti dijtu iveuzduc tembi. So sudifdem izjildin me mabief zus memudoji az gunak kol ta vu gihlicsok zetiom rac. Of sikwolbu geno nijkujom agaaroj piafpis jopo ehe foluavi kinhen gavoci hoj firesmoz akuwsi an.",
+    "bio": "Za fezbovos unagagmog nan ote hip fuuta vimegzu sok kijud pewavjog munipib wen cin vaug tasuz gusi. Uhi wudo haz vubna vaaka kusmuru ehjuuju hisilsoc ned loil isulud ew banozmec dik pitfove. Bucpujeg wekop re ta ojpeg mi du nucsa toftebhom genatedij enkuhape pe gec murid le kava futnoz tu."
+  },
+  "apiKey": "d245bf2ec444672a21da1f7a5f5d831275be5a8151a36e8d1960548df3aaf79d",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
