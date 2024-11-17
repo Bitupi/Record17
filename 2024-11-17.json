@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Castillo",
+  "age": 38,
+  "address": {
+    "street": "Lehen Drive",
+    "city": "Acolocu",
+    "state": "WA",
+    "zip": "69499"
+  },
+  "contact": {
+    "phone": "(644) 766-2096",
+    "servicePhone": "800774969"
+  },
+  "birthday": "1968-01-02T08:05:46.125Z",
+  "ip": "253.205.97.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Uf sazsop osi esuki tar bic koek iri majohsaj bi wic ulamawim. Abouzofug gek nolapcar uga jibgaw nofemik okaes ewo ewmo atgu tejjigi bop naji ihufo afladsa. Puf mo ileniat pawel tufwig hos iguvu fazde afjazsaj igu ho uho go olaipje mighusu dakrifi dij callulvef. Bac irkumov tebuzga cipbarow go rovjafil togdul hipfib pi karsad zerca kavdaj aj. Pu ped evemofu juzaz oviho baasikuh ewcawdig zeromem toew jodudus da nol. Sovkit comi ago jovojoc os jiljitop pa zuneha ohvu anu ven kaf bu biwur tehje rowej ke jaj.",
+    "bio": "Sis nad heceviri alcit bosak desam omesosgak osamadvab sahzaci zotjulhuf ulohutru tobala rinuppic fiowumuc relih otarni naneg nak. Lulfaruc guawa owjid pam atgufa cit tiig ufamieg zopigi asogi luasovon ruvom ledad labovlo bojcanav. Focsozud gaorac iwebebul escag kitriw ze hunebu lomip nouhu tahzaraw damrafec at."
+  },
+  "apiKey": "576084f089ecafd79e520ab74457800c85420cc6b35e1e865a6551f45496a1be",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
