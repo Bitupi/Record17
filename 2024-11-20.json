@@ -1,0 +1,26 @@
+{
+  "name": "Alan Hubbard",
+  "age": 46,
+  "address": {
+    "street": "Peefe Pass",
+    "city": "Zaamabo",
+    "state": "VT",
+    "zip": "56626"
+  },
+  "contact": {
+    "phone": "(865) 563-9572",
+    "servicePhone": "800396546"
+  },
+  "birthday": "1999-02-06T09:33:15.550Z",
+  "ip": "107.254.189.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Rekacad nonbenva zi fatlit afu mom ehwuh fabarif ulezoih nizalca ihe paho pifu. Vetot devev mebogok fajpenew vicheseg ka bucoduc gijevi no vigef danahtu ipiume. Omobuhuc vuz ipva bak ko urciiw noslageco tubfojec zu hobfakpuz eli sinvenni ji edoma kese abeh.",
+    "bio": "Odi ama of de mib zovenuw limribi lofal simeoz go ezadi juhi awuhevuf ubu pubu ofwamej abwum. Vaw moredo feaj lemjudpuw awjuk ku hezu zekjif re pinome mo kufri id jal azinahmo loraelu ma ronnujmer. Hag tefel ikebu edu ca jalhubli heroku disdiane wo pazdaemo eho ak eloera. Jatufpi jup vud adpu jafof juicu megi cul wef hat rep fu di."
+  },
+  "apiKey": "2919376cade842efa0383aa35410ffb0c8161bc1bb8b4a0fbfd843e585ef3a51",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
