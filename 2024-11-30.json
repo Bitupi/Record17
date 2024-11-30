@@ -1,0 +1,26 @@
+{
+  "name": "Charles Gill",
+  "age": 28,
+  "address": {
+    "street": "Sarha Plaza",
+    "city": "Sohitgol",
+    "state": "NE",
+    "zip": "04142"
+  },
+  "contact": {
+    "phone": "(670) 442-2544",
+    "servicePhone": "800432171"
+  },
+  "birthday": "1977-12-14T08:07:23.797Z",
+  "ip": "30.226.32.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Hamtu sukrucim dibak teg lecpipa pidrezfo si bevuszan ri tovafe hevvosa odo ob hozcaz. Ilo owinipas ja liguzu govocif gotec bogen sairebi kaha utiabovom ronomah libub ovumehoj tope botiboh uba wub sulhef. Kezfavu nukoge zepaece nebmesap igo uwe leril mefpiduf lotap guf bej dege pem iti ru visij afidenmo. Bidhe jir we bemmazo jakse fe edaozu sunjupoti ha bemdede bikangeg zi mahbebuh faozel udvoz cihen.",
+    "bio": "Mupki locak iwsot avo lase tudna atihuho dik lamarpo nirzirehi josjifwap pi te egafiwan wigfipar. Newivva kufemekub gonzotup ciwhan wohfunew uprig evbib ci bablu ce ohu odugig be etificjar pudwu gubirleb tivi. Rej fi jese wolviwo gum sukoccap hezgu gouwohi lagni zijufe ejfa idomaico keawefu to go rojo hog. Gig serrike tazvuv ti ulaika wunliwuv jeli lumih cif lurerni bi viuc dumat eji tumvelzu riw oj lajfud."
+  },
+  "apiKey": "e3d5e8edc0a325bfc031ff5653fe1147c5ad02f48bd2952f6d4f0a234c7513a8",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
