@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Joseph",
+  "age": 36,
+  "address": {
+    "street": "Jekal Plaza",
+    "city": "Dugugra",
+    "state": "WV",
+    "zip": "31424"
+  },
+  "contact": {
+    "phone": "(985) 659-9623",
+    "servicePhone": "800891236"
+  },
+  "birthday": "1987-04-27T02:42:11.029Z",
+  "ip": "47.165.13.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Jorwi rop mu daibaco jeb pizkil odpuz iho mumepe husdehug saje vuwu wonan nepine zehubasu. Pim mi fijus uzveg kir iheowuvu zodjem rerek aci ubumaziv se faka. Nopamtaz sazahipu bu ov upe upu jizuwmuf jifef ep pasje bidgo lilujece.",
+    "bio": "Dowen mol kiwol pur uwe zopado jid wevot nopru wih cof atvoz zo. Nimzuj wudidaw hore la vusitoz jiw tumekzin ke elohihot dedatnik vavonuz pusu tik. Va kesir vadobese uzra pem jo jeicupe giwlir ufuhemvi ulpi ulocu jevbog kotaful wotmogef. Se fu legriuka ig ge cofeb diiw me foadi zezibjej pu vuc jelnov sen zikice."
+  },
+  "apiKey": "40bdbc5dc26ff2e7dcd263e432fa134431d3b0e8f4963f1903182d29efb93338",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
